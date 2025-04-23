@@ -37,7 +37,8 @@ Projeto desenvolvido como parte do desafio **90 Dias Estagiário DEV**, com o ob
 
 ## 🔗 Acesse o projeto
 
-
+Você pode visualizar o projeto em funcionamento aqui:  
+👉 [Conversor de Moedas - GitHub Pages](https://thiagogosilva.github.io/conversor-moedas/)
 
 **Link para visualizar meu Mini Portfólio:**  
 🔗 [Mini Portfólio 💻](https://thiagogosilva.github.io/desafio-90dias-dev/)

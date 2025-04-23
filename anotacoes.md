@@ -24,7 +24,5 @@
 - API com problema de chave no início (resolvido trocando para outra API pública)
 - Pequeno bug com escopo de evento corrigido com  organização do código 
 
-## 🔗 Acesse o projeto
-
-Você pode visualizar o projeto em funcionamento aqui:  
-👉 [Gerador de Senha - GitHub Pages](https://thiagogosilva.github.io/gerador-senha/)
+**Link para visualizar meu Mini Portfólio:**  
+🔗 [Mini Portfólio 💻](https://thiagogosilva.github.io/desafio-90dias-dev/)
