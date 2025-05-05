@@ -33,8 +33,15 @@ Projeto desenvolvido como parte do desafio **90 Dias Estagiário DEV**, com o ob
 - Animação com classes CSS via JavaScript
 
 ## 📌 Status
-- Projeto finalizado, responsivo e funcional!  
+- Projeto finalizado, responsivo e funcional! 
 
+---
+
+## 🧑‍💻 Desenvolvido por
+
+**Thiago Silva**  
+- [GitHub](https://github.com/thiagogosilva)
+- [LinkedIn](https://www.linkedin.com/in/thiagogosilva)
 ## 🔗 Acesse o projeto
 
 Você pode visualizar o projeto em funcionamento aqui:  
